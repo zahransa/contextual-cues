@@ -3,7 +3,7 @@
 Pygame implementation of the classic **contextual cueing** visual search task.  
 Participants search for a rotated **T** among many **L** distractors. Some spatial layouts repeat across blocks (“**old**”); others are novel (“**new**”). With practice, reactions become faster in old layouts—even without explicit awareness.
 
-![Example stimulus](assets/stimulus.png)
+![Example stimulus](stimulus.png)
 
 ## What’s special in this version
 - **Harder displays**: every **L** gets a new **orientation** (ul/ur/dl/dr) **and color** each trial.
